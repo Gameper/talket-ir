@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.butterapp",
+      "sha256_cert_fingerprints":
+      ["ED:45:23:ED:B5:31:82:BC:84:24:DA:B8:CF:B1:77:D4:3A:2A:B0:A8:AD:E8:1C:A7:20:40:8E:46:0C:05:5E:16"]
+    }
+  }]
+  

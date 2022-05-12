@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "details": [
+      {      	   
+        "appIDs": [
+        	"Z299SAF8V7.io.gameper.butterapp",
+            "Z299SAF8V7.io.gameper.butterapp.stage"
+        ],
+        "components": [
+            {
+                "/": "*"
+            }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+      "apps": [ "Z299SAF8V7.io.gameper.butterapp", "Z299SAF8V7.io.gameper.butterapp.stage" ]
+   }
+}
