@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.butterapp",
+      "package_name": "com.gameper.butterapp",
       "sha256_cert_fingerprints": ["ED:45:23:ED:B5:31:82:BC:84:24:DA:B8:CF:B1:77:D4:3A:2A:B0:A8:AD:E8:1C:A7:20:40:8E:46:0C:05:5E:16", "fa:c6:17:45:dc:09:03:78:6f:b9:ed:e6:2a:96:2b:39:9f:73:48:f0:bb:6f:89:9b:83:32:66:75:91:03:3b:9c"]
     }
   }
