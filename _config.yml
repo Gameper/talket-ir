@@ -1,1 +1,1 @@
-include: [".well-known", "robots.txt", "sitemap.xml"]
+include: [".well-known", "robots.txt", "sitemap.xml", "apple-app-site-association", "assetlinks.json"]
